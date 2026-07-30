@@ -8,15 +8,6 @@ Enhanced QIS verbessert das QIS-System (für die Hochschule Trier)
 3. Den **Entwicklermodus** aktivieren.
 4. **Entpackte Erweiterung laden** auswählen und den Ordner dieses Repositories öffnen.
 
-Die Erweiterung verwendet Manifest V3 und kann damit in aktuellen Chromium-basierten Browsern geladen werden.
-
-## Firefox
-Download aus dem Mozilla Add-on Store:
-[https://addons.mozilla.org/de/firefox/addon/enhanced-qis/](https://addons.mozilla.org/de/firefox/addon/enhanced-qis/)
-# Features
-## Notenübersicht
-Die Notenübersicht wird aufpoliert und erweitert.
-
 Aus dem ursprünglichen Design:
 ![see docs/images/GradeOverview_before.png](docs/images/GradeOverview_before.png)
 
